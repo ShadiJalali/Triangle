@@ -1,0 +1,12 @@
+I supposed an interface(Shape) for all types of shapes that have 2 methods,
+one for validate the input params and another for get specific category of the shape.
+
+I assumed an InvalidShapeException that is thrown for invalid input params while creating the shape objects.
+
+I wrote a Triangle class with all methods that is requeted in challenge.
+
+Also TriangleType enum that represent all types of the triangle.
+
+And TriangleClient to use the classes.
+
+And finally Junit tests.
